@@ -51,9 +51,6 @@ Your goal is to dodge the animals and get the river otter to the goal safely.
 
 
 ## Run
-Press Play in Unity. There are 2 player controllers: S and W for the left player, and the Up Arrow and Down Arrow for the right player.
-
-## Run
 * Press Play in Unity to play the game from _MainMenu_ Scene
 * Press start button on the game play screen
 * Move the river otter by pressing direction keys in your keyboard (left arrow: move left, right arrow: move right, upward arrow: move forward, downward arrow: move back)
