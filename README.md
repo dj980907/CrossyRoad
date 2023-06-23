@@ -1,13 +1,7 @@
 # Unity-echo3D-Demo-RoadCrossing
-This road crossing game loads its animals and decorations at runtime using the echo3D API. 
-Please help the river otter from getting hit by other crazy animals!
+This road crossing game loads its animals and decorations at runtime using the echo3D API. <br>
+Please help the river otter from getting hit by other crazy animals!<br>
 Your goal is to dodge the animals and get the river otter to the goal safely.
-
-## How to Play
-* Play the game in game play mode from the Main Menu Scene
-* Press start to begin
-* Move the river otter by pressing direction keys in your keyboard
-
 
 
 ## Setup
@@ -59,6 +53,11 @@ Your goal is to dodge the animals and get the river otter to the goal safely.
 ## Run
 Press Play in Unity. There are 2 player controllers: S and W for the left player, and the Up Arrow and Down Arrow for the right player.
 
+## Run
+* Press Play in Unity to play the game from _MainMenu_ Scene
+* Press start button on the game play screen
+* Move the river otter by pressing direction keys in your keyboard (left arrow: move left, right arrow: move right, upward arrow: move forward, downward arrow: move back)
+  
 ## Learn more
 Refer to our [documentation](https://docs.echo3D.co/unity/) to learn more about how to use Unity and echo3D.
 
@@ -66,9 +65,19 @@ Refer to our [documentation](https://docs.echo3D.co/unity/) to learn more about 
 Feel free to reach out at [support@echo3D.co](mailto:support@echo3D.co) or join our [support channel on Slack](https://go.echo3D.co/join). 
 
 ## Sources
-* Background asset: [freepik](https://medium.com/r/?url=https%3A%2F%2Fwww.freepik.com%2Ffree-vector%2Fdetailed-table-tennis-logo_9891974.htm%23query%3Dping%2520pong%2520logo%26position%3D4%26from_view%3Dsearch)
+This demo implements background music from Unity Asset Store:
+ - [8bit Music](https://assetstore.unity.com/packages/audio/music/8bit-music-062022-225623)
 
 ## Screenshots
-![PingPongGIF](https://user-images.githubusercontent.com/99516371/176971241-345a9051-654f-4868-97e7-b80846fa876b.gif)
-![Cover](https://user-images.githubusercontent.com/99516371/176971315-14af730a-795d-4b00-bf63-23cf6ed455f5.png)
+* Main Menu Screen: This is where you will begin your game.
+  <img width="762" alt="mainMenu" src="https://github.com/dj980907/CrossyRoad/assets/108609222/267f3f4a-fe90-459a-a445-469382ff6930">
+* Game Screen: This is where you play the actual game.
+  <img width="762" alt="gameScreen" src="https://github.com/dj980907/CrossyRoad/assets/108609222/79e111ba-e685-4208-b41e-b961e2822f4a">
+* Game Over Screen: This will be shown when you run into other animals.
+  <img width="762" alt="gameOver" src="https://github.com/dj980907/CrossyRoad/assets/108609222/dfffa7b9-d9b5-42d5-ab24-e18809e02f30">
+* Game Finished Screen: This will be shown when you successfully move river otter to the goal.
+  <img width="762" alt="GameFinished" src="https://github.com/dj980907/CrossyRoad/assets/108609222/1bc47deb-f903-42a7-a97a-b677a68b7266">
+* Game Play GIF: <br>
+![gameRecording](https://github.com/dj980907/CrossyRoad/assets/108609222/947f827f-f93e-424f-bbfb-c757a73d5fdd)
+
 
